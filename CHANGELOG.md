@@ -2,3 +2,4 @@
 # Dotfiles changelog - day 2
 # Dotfiles changelog - day 3
 # Dotfiles changelog - day 4
+# Dotfiles changelog - day 5
