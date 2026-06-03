@@ -1,0 +1,19 @@
+[user]
+    name = Gravoir
+    email = gravoir@users.noreply.github.com
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --decorate --all
+    unstage = reset HEAD --
+    last = log -1 HEAD
+    visual = log --graph --format='%C(auto)%h%d%C(reset) %C(cyan)%cr%C(reset) %s' --all
+[pull]
+    rebase = true
+[init]
+    defaultBranch = main
+[core]
+    editor = vim
+    autocrlf = input
